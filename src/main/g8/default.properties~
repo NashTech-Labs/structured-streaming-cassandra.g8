@@ -1,0 +1,4 @@
+name=Structured Streaming with Cassandra
+description=A Giter8 template containing predefined Structured streaming with Cassandra.
+verbatim=*.scala, *.conf
+
